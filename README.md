@@ -1,3 +1,3 @@
-# JustJava
+# Just Java App
 
-Simple Android Starter Application for Ordering Coffee as Part of Udacity's Android Nanodegree
+Simple android starter application for ordering coffee as part of Udacity's Android Nanodegree
